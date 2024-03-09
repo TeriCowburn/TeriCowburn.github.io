@@ -1,0 +1,44 @@
+header {
+    align-items: center;
+    background-color: teal;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#menu-list {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly
+    list-style-type: none;
+    font-weight: 800;
+    padding-left: 0px;
+    text-align: center;
+
+}
+footer {
+    color: purple;
+    background-color: lightcyan;
+}
+
+.purple-background {
+    background-color:blanchedalmond
+}
+
+.centered {
+    text-align: center;
+}
+
+.into {
+    max-width: 500px;
+    text-align: left;
+}
+
+.rounded {
+    border-radius: 30px;
+}
+.font {
+
+    font-family: system-ui;
+}
