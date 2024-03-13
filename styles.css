@@ -1,6 +1,6 @@
 header {
     align-items: center;
-    background-color: teal;
+    background-color: #4039D0;
     color: white;
     display: flex;
     justify-content: space-evenly;
@@ -22,10 +22,17 @@ footer {
     background-color: lightcyan;
 }
 
-.purple-background {
-    background-color:blanchedalmond
+.a-background {
+    background-color:#F6DF5C ;
 }
 
+.b-background {
+    background-color:#76F54D;
+}
+
+.c-background {
+    background-color:#F54DCA;
+}
 .centered {
     text-align: center;
 }
